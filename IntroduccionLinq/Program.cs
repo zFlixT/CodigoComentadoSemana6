@@ -1,7 +1,6 @@
 ﻿
 using IntroduccionLinq;
 
-
 #region Introduccion 
 //Filtra y muestra palabras con más de 5 letras
 /*string[]palabras;
